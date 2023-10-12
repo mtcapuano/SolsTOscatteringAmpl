@@ -5,4 +5,4 @@ In the pdf you will find personal detailed solutions to each exercise. Some solu
 
 In this document I describe the Mathematica notebook I have made inspired by the exercises.
 
-### Exercise 1.4: calculating traces of SU($N_C$) generators
+### Exercise 1.4: calculating traces of SU(N) generators
