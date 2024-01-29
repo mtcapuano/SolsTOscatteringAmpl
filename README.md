@@ -1,5 +1,5 @@
 ## Solutions to Scattering amplitudes in Quantum field theory with Mathematica
-<a href="https://mcapuano.com/Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <a href="">Scattering amplitudes in Quantum field theory</a>, with some related Mathematica notebooks. This is a work in progress (last updated: 26-01-2024).
+<a href="https://mcapuano.com/Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <a href="">Scattering amplitudes in Quantum field theory</a>, with some related Mathematica notebooks. This is a work in progress (last updated: 29-01-2024).
 
 In the pdf you will find personal detailed solutions to each exercise. Some solutions turn out to be very similar to those suggested in the last chapter of the book, some are different.
 
