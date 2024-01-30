@@ -1,12 +1,12 @@
 ## Solutions to Scattering amplitudes in Quantum field theory with Mathematica
-<a href="https://mcapuano.com/Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <a href="">Scattering amplitudes in Quantum field theory</a>, with some related Mathematica notebooks. This is a work in progress (last updated: 29-01-2024).
+<a href="https://mcapuano.com/Solutions_to_Scattering_Amplitudes.pdf">Personal solutions</a> to <a href="">Scattering amplitudes in Quantum field theory</a>, with some related Mathematica notebooks. This is a work in progress (last updated: 30-01-2024).
 
 In the pdf you will find personal detailed solutions to each exercise. Some solutions turn out to be very similar to those suggested in the last chapter of the book, some are different.
 
 In this document, I describe the Mathematica notebook I have made inspired by the exercises that can be found in this repository.
 
 ### Exercise 1.4: calculating traces of SU(N) generators
-The exercise 1.4 has motivated me to write a small Mathematica code, as a short practice, to calculate traces of the generators of SU($N$) in their fundamental representation starting from the completeness relation (1.51).
+Solving Exercise 1.4 has motivated me to write a small Mathematica code, as a short practice, to calculate traces of the generators of SU($N$) in their fundamental representation starting from the completeness relation (1.51).
 
 A generator $T^a$ is expressed as `T[a]`, with other two arguments `T[a,i,j]` we express $(T^a)_i^j$.
 
